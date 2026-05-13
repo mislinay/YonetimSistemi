@@ -17,3 +17,4 @@ C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Infrastructure\obj\Debug\ne
 C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Infrastructure\obj\Debug\net10.0\YonetimSistemi.Infrastructure.pdb
 C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Infrastructure\obj\Debug\net10.0\YonetimSistemi.Infrastructure.genruntimeconfig.cache
 C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Infrastructure\obj\Debug\net10.0\ref\YonetimSistemi.Infrastructure.dll
+C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Infrastructure\obj\Debug\net10.0\YonetimSistemi.Infrastructure.sourcelink.json

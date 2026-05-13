@@ -166,3 +166,4 @@ C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.API\obj\Debug\net10.0\refin
 C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.API\obj\Debug\net10.0\YonetimSistemi.API.pdb
 C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.API\obj\Debug\net10.0\YonetimSistemi.API.genruntimeconfig.cache
 C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.API\obj\Debug\net10.0\ref\YonetimSistemi.API.dll
+C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.API\obj\Debug\net10.0\YonetimSistemi.API.sourcelink.json

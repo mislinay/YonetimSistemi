@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { getCustomers, getLoansByCustomer, getInstallmentsByLoan } from '../services/api';
 
-// Özet kart bileşeni
+// (Admin Ana Sayfa)
 function StatCard({ title, value, sub, color, icon }) {
   return (
     <div style={{ ...styles.statCard, borderTop: `4px solid ${color}` }}>

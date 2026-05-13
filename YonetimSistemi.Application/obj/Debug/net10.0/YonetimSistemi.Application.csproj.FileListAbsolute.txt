@@ -13,3 +13,4 @@ C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Application\obj\Debug\net10
 C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Application\obj\Debug\net10.0\refint\YonetimSistemi.Application.dll
 C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Application\obj\Debug\net10.0\YonetimSistemi.Application.pdb
 C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Application\obj\Debug\net10.0\ref\YonetimSistemi.Application.dll
+C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Application\obj\Debug\net10.0\YonetimSistemi.Application.sourcelink.json

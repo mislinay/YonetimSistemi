@@ -9,3 +9,4 @@ C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Domain\obj\Debug\net10.0\Yo
 C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Domain\obj\Debug\net10.0\refint\YonetimSistemi.Domain.dll
 C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Domain\obj\Debug\net10.0\YonetimSistemi.Domain.pdb
 C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Domain\obj\Debug\net10.0\ref\YonetimSistemi.Domain.dll
+C:\Users\hfzyu\Desktop\YonetimSistemi\YonetimSistemi.Domain\obj\Debug\net10.0\YonetimSistemi.Domain.sourcelink.json

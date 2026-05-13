@@ -6,14 +6,12 @@ import Layout from './components/Layout';
 // Public sayfalar
 import LandingPage from './pages/LandingPage';
 import Login from './pages/Login';
-import Register from './pages/Register';
 
 // Admin sayfaları
 import Dashboard from './pages/Dashboard';
 import CustomerList from './pages/customers/CustomerList';
 import CustomerCreate from './pages/customers/CustomerCreate';
 import CustomerDetail from './pages/customers/CustomerDetail';
-import LoanCreate from './pages/loans/LoanCreate';
 import LoanDetail from './pages/loans/LoanDetail';
 import InstallmentList from './pages/installments/InstallmentList';
 import DebtSummary from './pages/DebtSummary';
@@ -38,7 +36,6 @@ function App() {
         {/* PUBLIC SAYFALAR */}
         <Route path="/" element={<LandingPage />} />
         <Route path="/login" element={<Login />} />
-        <Route path="/register" element={<Register />} />
 
         {/* MÜŞTERİ PORTALI - sidebar yok */}
         <Route path="/portal/:customerId" element={<CustomerPortal />} />

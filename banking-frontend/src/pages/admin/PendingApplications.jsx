@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { getPendingLoans, approveLoan, rejectLoan } from '../../services/api';
-
+//(Bekleyen Başvurular)
 export default function PendingApplications() {
   const [loans, setLoans] = useState([]);
   const [loading, setLoading] = useState(true);

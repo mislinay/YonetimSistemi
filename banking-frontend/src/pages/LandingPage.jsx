@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-
+    {/* Ana Sayfa */}
 export default function LandingPage() {
   const navigate = useNavigate();
   const [visible, setVisible] = useState(false);
