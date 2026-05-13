@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="YonetimSistemi.API/YonetimSistemi.API.csproj" />
+  <Project Path="YonetimSistemi.Application/YonetimSistemi.Application.csproj" />
+  <Project Path="YonetimSistemi.Domain/YonetimSistemi.Domain.csproj" />
+  <Project Path="YonetimSistemi.Infrastructure/YonetimSistemi.Infrastructure.csproj" />
+</Solution>
