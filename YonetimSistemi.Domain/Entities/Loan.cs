@@ -20,7 +20,7 @@ namespace YonetimSistemi.Domain.Entities
         // Kullanıcının çektiği ana para (örn: 50.000 TL)
         public decimal PrincipalAmount { get; set; }
 
-        // Yıllık kar/faiz oranı (örn: 2.5 → %2.5)
+        // Yıllık kar payı oranı (örn: 2.5 → %2.5)
         public decimal ProfitRate { get; set; }
 
         // Kredi vadesi (ay cinsinden, örn: 12 ay)

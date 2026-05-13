@@ -70,7 +70,7 @@ namespace YonetimSistemi.Application.UseCases.Customers
 
                     allInstallments.Add(instDto);
 
-                    // Toplam borç: ödenmemiş taksitler (faiz dahil)
+                    // Toplam borç: ödenmemiş taksitler (kar payı oranı dahil)
                     if (inst.Status != InstallmentStatus.Odendi)
                         totalDebt += inst.Amount;
 
