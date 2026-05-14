@@ -3,7 +3,7 @@ using YonetimSistemi.Application.Interfaces;
 
 namespace YonetimSistemi.Application.UseCases.Auth
 {
-    // Tek sorumluluğu: email + şifre doğrulamak ve kullanıcı bilgisi döndürmek.
+    //  email + şifre doğrulamak ve kullanıcı bilgisi döndürmek.
     public class LoginUseCase
     {
         private readonly ICustomerRepository _customerRepository;

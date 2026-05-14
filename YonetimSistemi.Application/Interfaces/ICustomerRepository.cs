@@ -19,6 +19,8 @@ namespace YonetimSistemi.Application.Interfaces
         // Email'e göre müşteri getir (login ve benzersizlik kontrolü için)
         Task<Customer?> GetByEmailAsync(string email);
 
+        Task<Customer?> GetByPhoneNumberAsync(string phoneNumber);
+
         // Yeni müşteri ekle
         Task<Customer> CreateAsync(Customer customer);
 

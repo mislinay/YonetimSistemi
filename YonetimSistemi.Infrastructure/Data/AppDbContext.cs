@@ -28,6 +28,7 @@ namespace YonetimSistemi.Infrastructure.Data
             {
                 entity.HasIndex(c => c.IdentityNumber).IsUnique();
                 entity.HasIndex(c => c.Email).IsUnique();
+                entity.HasIndex(c => c.PhoneNumber).IsUnique();
             });
 
             // --- Admin Seed Data ---

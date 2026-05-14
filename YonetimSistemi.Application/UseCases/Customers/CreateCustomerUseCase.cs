@@ -4,8 +4,8 @@ using YonetimSistemi.Domain.Entities;
 
 namespace YonetimSistemi.Application.UseCases.Customers
 {
-    // Tek sorumluluğu: yeni müşteri oluşturmak.
-    // Controller bu sınıfı çağırır, veritabanını doğrudan görmez.
+    //  yeni müşteri oluşturmak.
+
     public class CreateCustomerUseCase
     {
         private readonly ICustomerRepository _customerRepository;
@@ -50,6 +50,10 @@ namespace YonetimSistemi.Application.UseCases.Customers
 
             if (existingByEmail != null)
                 throw new InvalidOperationException("Bu email adresi zaten kayıtlı.");
+
+            var existingPhone = await _customerRepository.GetByPhoneNumberAsync(dto.PhoneNumber);
+            if (existingPhone != null)
+                throw new InvalidOperationException("Bu telefon numarası zaten kayıtlı.");
 
             // 3. Şifreyi BCrypt ile hashle, düz metin veritabanına girmez
             var passwordHash = BCrypt.Net.BCrypt.HashPassword(dto.Password);
